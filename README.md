@@ -1,5 +1,14 @@
 # Toonify3D: From 2D Images to 3D Toon Models
-
+<div align='center'>
+  <img src="https://img.shields.io/github/contributors/TheNaiveSamosa/Toonify3D?style=for-the-badge&color=blue" alt="GitHub contributors">
+  <img src="https://img.shields.io/github/issues-closed-raw/TheNaiveSamosa/Toonify3D?style=for-the-badge&color=brightgreen" alt="GitHub Closed issues">
+  <img src="https://img.shields.io/github/issues-pr/TheNaiveSamosa/Toonify3D?style=for-the-badge&color=aqua" alt="GitHub PR Open">
+  <img src="https://img.shields.io/github/issues-pr-closed-raw/TheNaiveSamosa/Toonify3D?style=for-the-badge&color=blue" alt="GitHub PR closed">
+  <img src="https://img.shields.io/github/languages/count/TheNaiveSamosa/Toonify3D?style=for-the-badge&color=brightgreen" alt="GitHub language count">
+  <img src="https://img.shields.io/github/last-commit/TheNaiveSamosa/Toonify3D?style=for-the-badge&color=blue" alt="GitHub last commit">
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?style=for-the-badge" alt="GitHub Maintained">
+  <img src="https://img.shields.io/github/repo-size/TheNaiveSamosa/Toonify3D?style=for-the-badge&color=aqua" alt="Github Repo Size">
+</div>
 Toonify3D is a project that aims to convert 2D images or videos of a place into 3D toon models, such as a house or a building. The project uses Generative Adversarial Networks (GANs) to generate these models, providing a fun and creative way to visualize places in a new dimension.
 
 ## How it Works
